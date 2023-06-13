@@ -169,6 +169,12 @@ MIT
 ngx-doc-viewer
 MIT
 
+overlayscrollbars
+MIT
+
+overlayscrollbars-ngx
+MIT
+
 rxjs
 Apache-2.0
                                Apache License
